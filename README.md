@@ -1,7 +1,7 @@
 # PASSWORD MANAGER
 
 This is a simple password manager.
-You nedd to download pswmanager.py and passwords.txt for this to work
+You nedd to download `pswmanager.py` and `passwords.txt` for this to work
 
 # Instructions
 
